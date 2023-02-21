@@ -1,5 +1,5 @@
 {
     "name": "convex-tutorial",
     "version": "0.0.0",
-    "scripts": {"dev": "echo hello.txt"}
+    "scripts": {"dev": "cat hello.txt"}
 }
