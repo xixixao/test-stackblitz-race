@@ -1,3 +1,5 @@
 {
-    "dev": "echo hello.txt"
+    "name": "convex-tutorial",
+    "version": "0.0.0",
+    "scripts": {"dev": "echo hello.txt"}
 }
