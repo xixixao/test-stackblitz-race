@@ -1,7 +1,7 @@
 {
     "name": "convex-tutorial",
     "version": "0.0.0",
-    "scripts": {"dev": "cat hello.txt"},
+    "scripts": {"dev": "node -e 'setTimeout(() => {}, 4000)'; cat hello.txt"},
     "dependencies": {
         "convex": "0.9.1",
         "react": "^17.0.2",
